@@ -1,5 +1,6 @@
 body {
-    background-image: url(suizokukan.png);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  }
-  
+    background-image: url(suizokukan.png); no-repeat center center fixed #C0C0C0;
+    background-size: cover;               /* 全画面 */
+    background-attachment: fixed;         /* 固定 */
+    background-position: center center;
+}
