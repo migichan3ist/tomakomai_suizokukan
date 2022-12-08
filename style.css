@@ -6,3 +6,12 @@ body
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+
+/* 魚情報 */
+#main_fish{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 200px;
+}
